@@ -1,0 +1,2 @@
+pre-writed text.
+Hello file_put_contents

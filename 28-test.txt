@@ -1,0 +1,4 @@
+Hello
+Belal
+Homsi - New Text by fwrite()
+New Text in new line.
